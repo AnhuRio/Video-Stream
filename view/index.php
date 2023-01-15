@@ -34,7 +34,7 @@
       <div class="card-body">
         <h5 class="card-title">Big Buck Bunny</h5>
         <p class="card-text">Big Buck Bunny (code-named Project Peach) is a 2008 short computer-animated comedy film featuring animals of the forest, made by the Blender Institute, part of the Blender Foundation..</p>
-        <a href="https://d2l47neh3dl7ge.cloudfront.net/bbb_sunflower_1080p_60fps_normal.mp4" class="btn btn-primary">Watch</a>
+        <a href="video_page.php" class="btn btn-primary">Watch</a>
       </div>
     </div>
   </div>
@@ -43,8 +43,8 @@
              <img class="card-img-top" src="images/skeleton_dance.png" alt="Card image cap">
       <div class="card-body">
         <h5 class="card-title">The Skeleton Dance</h5>
-        <p class="card-text">The Skeleton Dance is a 1929 Silly Symphony animated short subject produced and directed by Walt Disney and animated by Ub Iwerks. In the film, four human skeletons dance and make music around a spooky graveyard.</p>
-        <a href="https://d2l47neh3dl7ge.cloudfront.net/Silly%20Symphonies%20%20The%20Skeleton%20Dance.mp4" class="btn btn-primary">Watch</a>
+        <p class="card-text">The Skeleton Dance is a 1929 Silly Symphony animated short subject produced and directed by Walt Disney and animated by Ub Iwerks.</p>
+        <a href="video_page2.php" class="btn btn-primary">Watch</a>
       </div>
     </div>
   </div>
