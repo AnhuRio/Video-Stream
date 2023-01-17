@@ -14,7 +14,6 @@
     <title>Video Page</title>
   </head>
   <body>
-    <a class="btn btn-secondary" href="index.php" role="button">Return</a>
   <video id="player" width="100%" height="auto" autoplay="autoplay" controls>
   <source src="https://d2l47neh3dl7ge.cloudfront.net/bbb_sunflower_1080p_60fps_normal.mp4" type="video/mp4" codecs="avc1.42E01E, mp4a.40.2">
 </video>
