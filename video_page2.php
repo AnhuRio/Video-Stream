@@ -11,10 +11,9 @@
 <body>
   
     
-    <title>Video Page</title>
+    <title>Skeleton Dance</title>
   </head>
   <body>
-    <a class="btn btn-secondary" href="index.php" role="button">Return</a>
   <video id="player" width="100%" height="auto" autoplay="autoplay" controls>
   <source src="https://d2l47neh3dl7ge.cloudfront.net/Silly%20Symphonies%20%20The%20Skeleton%20Dance.mp4" type="video/mp4" codecs="avc1.42E01E, mp4a.40.2">
 </video>
