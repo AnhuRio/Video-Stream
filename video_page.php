@@ -11,7 +11,7 @@
 <body>
   
     
-    <title>Video Page</title>
+    <title>Big Buck Bunny</title>
   </head>
   <body>
   <video id="player" width="100%" height="auto" autoplay="autoplay" controls>
